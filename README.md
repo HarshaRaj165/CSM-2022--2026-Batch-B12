@@ -1,4 +1,4 @@
-# 🤖 Smart AI-IoT Based Fall Detection & Health Monitoring System
+# 🤖 Smart AI-IOT Based Fall Detection & Health Monitoring System
 
 📌 Overview
 ---
