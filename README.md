@@ -24,3 +24,17 @@ This project promotes safer, healthier, and independent living for elderly indiv
 
 ---
 
+🛠️ Hardware Components
+---
+• Arduino Uno
+
+• MAX30105 (Heart Rate, SpO₂, Temperature)
+
+• MPU6050 (Gyroscope + Accelerometer)
+
+• NodeMCU / ESP8266 Wi-Fi Module
+
+• Power Supply & Relay Module
+
+---
+
