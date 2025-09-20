@@ -128,6 +128,15 @@ Cloud Setup
 
 ---
 
+📖 References
+---
+This project is backed by recent academic research:
+
+  • Akash Gupta., Himanshu Gupta., "IoT Based Fall Detection Monitoring and Alarm System for Elderly." UPCON 2020.
+    [AI-Driven IoT-Based Fall Detection and Health Monitoring System for Elderly (PDF)](https://example.com/your-paper-link.pdf)
+
+
+  
 📊 Example Dashboard
 ---
 • Heart Rate
