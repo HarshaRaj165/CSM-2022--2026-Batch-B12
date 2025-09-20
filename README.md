@@ -8,3 +8,19 @@ This project promotes safer, healthier, and independent living for elderly indiv
 
 ---
 
+🎯 Features
+---
+• ✅ Real-time fall detection using MPU6050 (gyroscope + accelerometer)
+
+• ✅ Continuous monitoring of heart rate, SpO₂, and temperature with MAX30105
+
+• ✅ AI-driven algorithm to reduce false positives in fall detection
+
+• ✅ Cloud data integration using ThingSpeak
+
+• ✅ Caregiver access through mobile and web interfaces
+
+• ✅ Low-cost, portable, and scalable design
+
+---
+
