@@ -1,5 +1,4 @@
 # 🤖 Smart AI-IoT Based Fall Detection & Health Monitoring System for Elderly
-
 ---
 
 📌 Overview
