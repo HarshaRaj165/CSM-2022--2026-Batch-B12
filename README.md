@@ -108,13 +108,13 @@ Arduino Setup
 
 2. Install required libraries:
 
-  • Adafruit MAX30105
+     • Adafruit MAX30105
 
-  • Wire.h & Adafruit Sensor
+     • Wire.h & Adafruit Sensor
 
-  • MPU6050
+     • MPU6050
 
-  • ESP8266WiFi
+     • ESP8266WiFi
 
 3.Upload the code to Arduino Uno
 
