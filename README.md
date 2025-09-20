@@ -53,7 +53,7 @@ This project promotes safer, healthier, and independent living for elderly indiv
 ---
 
 ## 🛠️ Proposed System
----
+
 
 ### 1. System Overview
 An Arduino-based IoT system integrated with AI algorithms to monitor **vital signs** and detect **falls** in real-time, sending alerts to caregivers via cloud and mobile/web apps.
