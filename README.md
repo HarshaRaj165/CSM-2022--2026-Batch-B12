@@ -6,3 +6,5 @@ The Smart AI – IoT Based Fall Detection and Health Monitoring System is an IoT
 
 This project promotes safer, healthier, and independent living for elderly individuals by combining IoT, AI, and cloud-based analytics.
 
+---
+
