@@ -100,3 +100,31 @@ An Arduino-based IoT system integrated with AI algorithms to monitor **vital sig
 
 ---
 
+🚀 Installation & Setup
+---
+Arduino Setup
+---
+1. Install Arduino IDE
+
+2. Install required libraries:
+
+  • Adafruit MAX30105
+
+  • Wire.h & Adafruit Sensor
+
+  • MPU6050
+
+  • ESP8266WiFi
+
+3.Upload the code to Arduino Uno
+
+Cloud Setup
+---
+   • Create a ThingSpeak account
+
+   • Configure channels & API keys
+
+   •   Connect ESP8266 module to Wi-Fi and ThingSpeak API
+
+---
+
