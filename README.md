@@ -140,3 +140,37 @@ Cloud Setup
 
 ---
 
+📱 Mobile/Web Interface
+---
+• Developed using Flutter / Android Studio
+
+• Caregivers can monitor live health stats
+
+• Alert notifications for emergency response
+
+---
+
+📌 Use Cases
+---
+• 🏠 Home-based elderly monitoring
+
+• 🏥 Elderly care centers
+
+• 🌍 Remote healthcare solutions
+
+•⚡ Emergency medical response systems
+
+---
+
+🔮 Future Enhancements
+---
+• Integration with wearable smart bands
+
+• Adding machine learning-based predictive analytics
+
+• Voice-enabled emergency alerts
+
+• Integration with AWS IoT / Google Cloud IoT for scalability
+
+---
+
