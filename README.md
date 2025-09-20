@@ -133,10 +133,10 @@ Cloud Setup
 This project is backed by recent academic research:
 
   • Akash Gupta., Himanshu Gupta., "IoT Based Fall Detection Monitoring and Alarm System for Elderly." UPCON 2020.
-               [👉Read Paper](https://ieeexplore.ieee.org/document/9376569)
+                  [👉Read Paper](https://ieeexplore.ieee.org/document/9376569)
 
  •  Ziad Tarik Al-Dahan., Nasseer K., Bachache & Lina Nasseer Bachache ., "Design and Implementation of Fall Detection System Using MPU6050 Arduino" 
-               [👉Read Paper](https://www.researchgate.net/publication/303404955_Design_and_Implementation_of_Fall_Detection_System_Using_MPU6050_Arduino)
+                  [👉Read Paper](https://www.researchgate.net/publication/303404955_Design_and_Implementation_of_Fall_Detection_System_Using_MPU6050_Arduino)
 
 ---
 
