@@ -85,3 +85,18 @@ An Arduino-based IoT system integrated with AI algorithms to monitor **vital sig
 - **User Experience** → Promotes independence for elderly while ensuring 24/7 safety monitoring  
 
 ---
+
+⚙️ Working Principle
+---
+• Data Acquisition: Sensors (MAX30105, MPU6050) collect health and movement data.
+
+• Processing: Arduino Uno preprocesses signals and runs AI-based detection algorithms.
+
+• Cloud Integration: ESP8266 transmits data to ThingSpeak for storage & visualization.
+
+• AI Decision Making: Intelligent fall detection reduces false alarms by learning activity patterns.
+
+• Alerts: Caregivers receive instant notifications via mobile/web apps for timely intervention.
+
+---
+
