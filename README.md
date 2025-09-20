@@ -38,3 +38,17 @@ This project promotes safer, healthier, and independent living for elderly indiv
 
 ---
 
+💻 Software & Tools
+
+• Arduino IDE – microcontroller programming
+
+• Python (Scikit-learn / TensorFlow) – AI model development
+
+• ThingSpeak – IoT cloud data management
+
+• Android Studio / Flutter – mobile application
+
+• Web Interface – for caregiver monitoring
+
+---
+
