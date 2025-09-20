@@ -39,7 +39,7 @@ This project promotes safer, healthier, and independent living for elderly indiv
 ---
 
 💻 Software & Tools
-
+---
 • Arduino IDE – microcontroller programming
 
 • Python (Scikit-learn / TensorFlow) – AI model development
