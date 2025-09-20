@@ -135,8 +135,24 @@ This project is backed by recent academic research:
   • Akash Gupta., Himanshu Gupta., "IoT Based Fall Detection Monitoring and Alarm System for Elderly." UPCON 2020.
                   [👉Read Paper](https://ieeexplore.ieee.org/document/9376569)
 
- •  Ziad Tarik Al-Dahan., Nasseer K., Bachache & Lina Nasseer Bachache ., "Design and Implementation of Fall Detection System Using MPU6050 Arduino" 
+  •  Ziad Tarik Al-Dahan., Nasseer K., Bachache & Lina Nasseer Bachache ., "Design and Implementation of Fall Detection System Using MPU6050 Arduino" 
                   [👉Read Paper](https://www.researchgate.net/publication/303404955_Design_and_Implementation_of_Fall_Detection_System_Using_MPU6050_Arduino)
+
+---
+
+📚 Related Books
+---
+For deeper insights into IOT, AI and Sensors ,here are recommended reads:
+
+• "Healthcare Systems and Health Informatics Using Internet of Things" - Pawan Singh Mehra, Lalit Mohan Goyal, Arvind Dagur, Anshu Kumar Dwivedi
+
+• "Smart Healthcare Monitoring Using IoT with 5G: Challenges, Directions, and Future Predictions" - Meenu Gupta, Gopal Chaudhary, Victor Hugo C. de Albuquerque
+
+• "Wearable Sensors: Fundamentals, Implementation and Applications" - Edward Sazonov
+
+• "Handbook of Artificial Intelligence and Wearables: Applications and Case Studies" - Hemachandran K, Manjeet Rege, Zita Zoltay Paprika
+
+• "The Internet of Medical Things: Enabling Technologies and Emerging Applications" - Subhendu Kumar Pani, Priyadarsan Patra, Gianluigi Ferrari, Radoslava Kraleva, Xinheng Wang
 
 ---
 
