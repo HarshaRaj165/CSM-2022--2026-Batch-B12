@@ -124,7 +124,19 @@ Cloud Setup
 
    • Configure channels & API keys
 
-   •   Connect ESP8266 module to Wi-Fi and ThingSpeak API
+   • Connect ESP8266 module to Wi-Fi and ThingSpeak API
+
+---
+
+📊 Example Dashboard
+---
+• Heart Rate
+
+• SpO₂
+
+• Body Temperature
+
+• Fall Detection Events (alerts)
 
 ---
 
